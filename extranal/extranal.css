@@ -1,0 +1,31 @@
+* {
+    /* color: antiquewhite; */
+}
+
+
+
+.travelimg {
+    /* margin: 50px; */
+/* border: solid tomato;     */
+/* box-shadow: 50px 30px 20px black; */
+    
+    color: black;
+    text-align: center;
+    height: 300px;
+    background-image: url('travelblog.jpg') ;
+background-size: 500px;    
+}
+.head {
+
+
+border: 1px solid ;
+/* display: block; */
+/* display: inline-block; */
+
+}
+.part2 {
+    visibility: hidden;
+}
+h2,h3,h4 {
+    text-decoration: overline;
+}
